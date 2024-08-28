@@ -44,7 +44,7 @@ h6 {
   z-index: 1030;
 }
 .navbar .active {
-  color: #4cbb17 !important;
+  color: #bbc4db !important;
 }
 .navbar .navbar-brand {
 }
@@ -126,8 +126,8 @@ h6 {
 }
 
 .banner {
-  background: #228b22;
-  background: linear-gradient(to right, #228b22, #4cbb17);
+  background: #2f4992;
+  background: linear-gradient(to right, #2f4992, #bbc4db);
   padding: 100px 0px;
   position: relative;
 }
@@ -217,8 +217,8 @@ h6 {
   width: 135px;
   height: 135px;
   border-radius: 100px;
-  background: #228b22;
-  background: linear-gradient(to left, #228b22, #4cbb17);
+  background: #2f4992;
+  background: linear-gradient(to left, #2f4992, #bbc4db);
   color: #ffffff;
   font-size: 50px;
   line-height: 135px;
@@ -234,9 +234,9 @@ h6 {
   margin: 0 auto;
 }
 .about-btn {
-  color: #4cbb17;
+  color: #bbc4db;
   padding: 10px 40px;
-  border: 2px solid #4cbb17;
+  border: 2px solid #bbc4db;
   border-radius: 7px;
   margin-top: 30px;
   display: inline-block;
@@ -391,8 +391,7 @@ h6 {
 }
 
 .image-container {
-  height: 450px;
-  max-width: 320px;
+  height: 400px;
   overflow: hidden;
 }
 
@@ -489,14 +488,14 @@ input {
   border-radius: 2rem;
   border: 0;
   background: #1b6ebb;
-  background: linear-gradient(to left, #228b22, #4cbb17);
+  background: linear-gradient(to left, #2f4992, #bbc4db);
   cursor: pointer;
 }
 .contact-info {
   padding: 0.5rem 2rem 0.5rem;
   border-radius: 8px;
   background: #1b6ebb;
-  background: linear-gradient(to left, #228b22, #4cbb17);
+  background: linear-gradient(to left, #2f4992, #bbc4db);
 }
 .contact-item {
   margin: 23px 0px;
